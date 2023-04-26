@@ -52,7 +52,6 @@ The program performs the bitwise OR operation using the | operator, stores the r
 Start
 Define two integer variables x and y.
 
-
 Set the value of x to 6 and the value of y to 14.
 
 Perform the bitwise OR operation on x and y using the | operator.
