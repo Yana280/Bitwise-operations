@@ -49,6 +49,7 @@ This program performs a bitwise OR operation on two integers x and y, and then p
 The value of x is set to 6 and the value of y is set to 14.
 The program performs the bitwise OR operation using the | operator, stores the result in a new integer variable a, and then prints the value of a to the console using the printf function. Finally, the program returns 0 to indicate successful execution.
 ![Screenshot (306)](https://user-images.githubusercontent.com/125993593/234585344-150e5ffd-3800-4d87-9f09-f4118df1e06e.png)
+### Algorithm
 Start
 Define two integer variables x and y.
 
