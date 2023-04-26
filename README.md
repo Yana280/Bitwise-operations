@@ -43,3 +43,33 @@ If the result of the bitwise AND operation is 1, print the string "Odd" to the c
 If the result of the bitwise AND operation is 0, print the string "Even" to the console using the printf function.
 
 End.
+
+## Bitwise OR operator of two numbers
+This program performs a bitwise OR operation on two integers x and y, and then prints the result to the console. 
+The value of x is set to 6 and the value of y is set to 14.
+The program performs the bitwise OR operation using the | operator, stores the result in a new integer variable a, and then prints the value of a to the console using the printf function. Finally, the program returns 0 to indicate successful execution.
+![Screenshot (306)](https://user-images.githubusercontent.com/125993593/234585344-150e5ffd-3800-4d87-9f09-f4118df1e06e.png)
+Start
+Define two integer variables x and y.
+
+
+Set the value of x to 6 and the value of y to 14.
+
+Perform the bitwise OR operation on x and y using the | operator.
+
+Store the result of the bitwise OR operation in a new integer variable a.
+
+Print the string "Bitwise OR of two numbers is x&y is " to the console using the printf function.
+
+
+Print the value of a to the console using the %d format specifier and the printf function.
+
+Return 0 to indicate successful program execution.
+
+End.
+
+
+
+
+
+
