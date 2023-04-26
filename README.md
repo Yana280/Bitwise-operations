@@ -72,6 +72,9 @@ End.
  The value of x is set to 6 and the value of y is set to 14. 
  The program performs the bitwise AND operation using the & operator, stores the result in a new integer variable a, and then prints the value of a to the console    using the printf function. 
  Finally, the program returns 0 to indicate successful execution.
+ ![Screenshot (307)](https://user-images.githubusercontent.com/125993593/234590129-4e0dfcf2-5c22-4a11-b3e7-b71e57e6c52a.png)
+
+ 
 
 Here's a step-by-step explanation of what the program is doing:
 
