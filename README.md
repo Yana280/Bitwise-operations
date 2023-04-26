@@ -67,8 +67,39 @@ Print the value of a to the console using the %d format specifier and the printf
 Return 0 to indicate successful program execution.
 
 End.
+ ## Bitwise AND operator of two numbers
+ This is a C program that performs a bitwise AND operation on two integers x and y, and then prints the result to the console. 
+ The value of x is set to 6 and the value of y is set to 14. 
+ The program performs the bitwise AND operation using the & operator, stores the result in a new integer variable a, and then prints the value of a to the console    using the printf function. 
+ Finally, the program returns 0 to indicate successful execution.
 
+Here's a step-by-step explanation of what the program is doing:
 
+The program starts by including the stdio.h header file and defining a main() function.
+Two integer variables x and y are defined and initialized with the values 6 and 14 respectively.
+The program performs the bitwise AND operation on x and y using the & operator, and stores the result in a new integer variable a.
+The program prints the string "Bitwise AND of two numbers is x&y is " to the console using the printf() function.
+The program prints the value of a to the console using the %d format specifier and the printf() function.
+The main() function returns 0 to indicate successful program execution.
+The program ends.
+### Algorithm
+Start
+
+Define two integer variables x and y.
+
+Set the value of x to 6 and the value of y to 14.
+
+Perform the bitwise AND operation on x and y using the & operator.
+
+Store the result of the bitwise AND operation in a new integer variable a.
+
+Print the string "Bitwise AND of two numbers is x&y is " to the console using the printf function.
+
+Print the value of a to the console using the %d format specifier and the printf function.
+
+Return 0 to indicate successful program execution.
+
+End.
 
 
 
