@@ -7,8 +7,13 @@ The resulting output of this program is "Bitwise XOR of two numbers is x&y is 8"
 ![Screenshot (304)](https://user-images.githubusercontent.com/125993593/234580248-8feefaa8-09d1-4e0d-b278-cb1767d81faf.png)
 ### Algorithm
 Start
+
 Declare integer variable x and assign the value 6 to it
+
 Declare integer variable y and assign the value 14 to it
+
 Compute the bitwise XOR of x and y using the ^ operator and store the result in a new integer variable a
+
 Print the value of a to the console using the printf function with the format string "Bitwise XOR of two numbers is x&y is %d"
+
 End.
